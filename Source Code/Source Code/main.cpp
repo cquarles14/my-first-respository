@@ -1,14 +1,13 @@
-//
-//  main.cpp
-//  Source Code
-//
-//  Created by Catlynne Quarles on 3/21/22.
-//
+// Catlynne Quarles
+// CIS 1202 R02
+// March 22, 2022
+// Source Code Management Assignment 1
 
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main()
+{
+    cout << "Hello, World" << endl;
     return 0;
 }
